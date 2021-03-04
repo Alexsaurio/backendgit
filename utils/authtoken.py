@@ -1,7 +1,7 @@
 
 # auth token
-gittk = "19997270956c233ea833eb82829c531ebc001b9d"
+gittk = ""
 # user github
-gituser = "Alexsaurio"
+gituser = ""
 #repositorio base
-gitrepo = "Alexsaurio/Pokedex"
+gitrepo = ""
