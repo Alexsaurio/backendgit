@@ -2,6 +2,6 @@
 # auth token
 gittk = ""
 # user github
-gituser = ""
+gituser = "Alexsaurio"
 #repositorio base
-gitrepo = ""
+gitrepo = "Alexsaurio/Pokedex"
