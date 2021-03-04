@@ -14,7 +14,7 @@ In the project directory, you can run:
 
 ### `python manage.py runserver`
 
-### Create auth token
+### Create auth token for git
 
 It is required to generate an authentication token to create the PRs, you can visit:
 
